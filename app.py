@@ -60,8 +60,8 @@ with st.sidebar:
 def load_model():
     try:
         # Load model architecture
-        model_path = "Weights/network_emotions.json"
-        weights_path = "Weights/weights_emotions.hdf5"
+        model_path = "network_emotions.json"
+        weights_path = "weights_emotions.hdf5"
         
         with open(model_path, 'r') as json_file:
             loaded_model_json = json_file.read()
