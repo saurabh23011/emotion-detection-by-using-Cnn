@@ -8,7 +8,8 @@ This application uses a Convolutional Neural Network to detect and classify emot
 - **Upload Image**: Analyze emotions in uploaded images
 - **Webcam Integration**: Real-time emotion detection using your webcam
 - **Adjustable Parameters**: Control face detection sensitivity and confidence thresholds
-- **Statistics Display**: View detailed information about detected faces and emotions
+- **Statistics Display**: View deta![Uploading Screenshot 2025-04-04 at 5.51.47 PM.png…]()
+iled information about detected faces and emotions
 
 
  
